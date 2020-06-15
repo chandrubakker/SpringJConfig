@@ -29,7 +29,7 @@
 		<mysql.connector-version>5.1.30</mysql.connector-version>
 		<hsqldb.version>2.3.0</hsqldb.version>
 		<hibernate-version>4.2.8.Final</hibernate-version>
-		<hibernate-validator-version>5.0.1.Final</hibernate-validator-version>
+		<hibernate-validator-version>5.3.5.Final</hibernate-validator-version>
 		<hibernate-envers-version>3.6.8.Final</hibernate-envers-version>
 		<commons-dbcp.version>1.2.2</commons-dbcp.version>
 
