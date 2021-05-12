@@ -18,7 +18,7 @@
 
 		<!-- Spring framework -->
 		<org.springframework-version>4.3.1.RELEASE</org.springframework-version>
-		<org.springsecurity-version>3.2.3.RELEASE</org.springsecurity-version>
+		<org.springsecurity-version>5.2.10.RELEASE</org.springsecurity-version>
 		<net.sf.ehcache-core-version>2.6.6</net.sf.ehcache-core-version>
 		<org.springwebflow-version>2.3.2.RELEASE</org.springwebflow-version>
 		<org.springjs-version>2.3.2.RELEASE</org.springjs-version>
