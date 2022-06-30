@@ -20,7 +20,7 @@
 		<org.springframework-version>4.3.1.RELEASE</org.springframework-version>
 		<org.springsecurity-version>3.2.3.RELEASE</org.springsecurity-version>
 		<net.sf.ehcache-core-version>2.6.6</net.sf.ehcache-core-version>
-		<org.springwebflow-version>2.3.2.RELEASE</org.springwebflow-version>
+		<org.springwebflow-version>2.4.6.RELEASE</org.springwebflow-version>
 		<org.springjs-version>2.3.2.RELEASE</org.springjs-version>
 		<cglib-nodep-version>2.2.2</cglib-nodep-version>
 		<jackson-mapper-asl.version>1.9.13</jackson-mapper-asl.version>
